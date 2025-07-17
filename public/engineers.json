@@ -1,0 +1,32 @@
+[
+  {
+    "id": "eng1",
+    "name": "Head of Engineering (Alice Patel)",
+    "availability": [
+      { "day": "Monday", "start": "09:00", "end": "12:00" },
+      { "day": "Tuesday", "start": "14:00", "end": "17:00" },
+      { "day": "Wednesday", "start": "10:00", "end": "12:00" },
+      { "day": "Thursday", "start": "09:00", "end": "12:00" },
+      { "day": "Friday", "start": "13:00", "end": "16:00" }
+    ]
+  },
+  {
+    "id": "eng2",
+    "name": "Full Stack Engineer (Brian Lee)",
+    "availability": [
+      { "day": "Tuesday", "start": "13:00", "end": "17:00" },
+      { "day": "Wednesday", "start": "09:00", "end": "12:00" },
+      { "day": "Friday", "start": "13:00", "end": "16:00" },
+      { "day": "Tuesday", "start": "14:00", "end": "17:00" }
+    ]
+  },
+  {
+    "id": "eng3",
+    "name": "AI Lead (Priya Singh)",
+    "availability": [
+      { "day": "Monday", "start": "09:00", "end": "18:00" },
+      { "day": "Thursday", "start": "13:00", "end": "15:00" },
+      { "day": "Friday", "start": "13:00", "end": "16:00" }
+    ]
+  }
+]

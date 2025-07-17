@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cand1",
+    "name": "Alice Johnson",
+    "preferred": { "day": "Tuesday", "start": "14:00", "end": "17:00" }
+  },
+  {
+    "id": "cand2",
+    "name": "Bob Smith",
+    "preferred": { "day": "Wednesday", "start": "10:00", "end": "12:00" }
+  },
+  {
+    "id": "cand3",
+    "name": "Charlie Lee",
+    "preferred": { "day": "Friday", "start": "13:00", "end": "16:00" }
+  }
+]
