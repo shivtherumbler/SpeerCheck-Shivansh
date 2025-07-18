@@ -33,7 +33,7 @@ A beautiful, real-world React + TypeScript app for recruiters to schedule interv
    ```
 3. **Run tests:**
    ```bash
-   npm run test
+   npx vitest
    ```
 
 ## 🌐 Deployment
